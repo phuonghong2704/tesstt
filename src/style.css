@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+nav {
+  background-color: black;
+  height: 100px;
+}
+.row {
+  width: 95%;
+  margin: auto;
+}
+ul {
+  font-size: 2vw;
+  color: white;
+  display: flex;
+  flex-wrap: none;
+  justify-content: space-between;
+  list-style: none;
+  align-items: center;
+  height: 100px;
+}
